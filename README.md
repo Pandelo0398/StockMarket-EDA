@@ -15,3 +15,4 @@ To conduct this EDA, the Yahoo Finance API was used, from which data was extract
 To illustrate these findings, libraries such as Plotly and Seaborn were used. Being time series, the evolutions as well as the falls and recoveries can be interpreted as atypical situations when analyzing the daily returns when trading with those stocks.
 
 ![imagen ajustada](https://github.com/Pandelo0398/StockMarket-EDA/blob/main/Images/EDA%20Precio%20de%20cierre%20ajustado.png)![caixa stock](https://github.com/Pandelo0398/StockMarket-EDA/blob/main/Images/caixa_month.png)
+Presentation available on Canvas(Spanish): https://www.canva.com/design/DAFR1doWq3k/OxwEDThu6XWPuNhgbkaLkA/view?utm_content=DAFR1doWq3k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
